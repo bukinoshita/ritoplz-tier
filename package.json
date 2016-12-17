@@ -16,6 +16,12 @@
   "scripts": {
     "test": "xo && ava -v"
   },
+  "keywords": [
+    "ritoplz",
+    "tier",
+    "lol",
+    "league of legends"
+  ],
   "xo": {
     "space": true,
     "semicolon": false
