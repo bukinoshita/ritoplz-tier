@@ -1,0 +1,10 @@
+{
+  "flag": {
+    "original": "https://ritoplz-tier.now.sh/unranked.png",
+    "small": "https://ritoplz-tier.now.sh/unranked_small.png",
+    "large": "https://ritoplz-tier.now.sh/unranked_large.png"
+  },
+  "tier": {
+    "name": "unranked"
+  }
+}

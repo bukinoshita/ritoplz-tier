@@ -1,0 +1,23 @@
+{
+  "name": "ritoplz-tier",
+  "version": "0.0.0",
+  "description": "Get League of Legends tier information",
+  "main": "index.js",
+  "repository": {
+    "url": "https://github.com/bukinoshita/ritoplz-tier.git",
+    "type": "git"
+  },
+  "author": "Bu Kinoshita <bukinoshita@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ava": "^0.17.0",
+    "xo": "^0.17.1"
+  },
+  "scripts": {
+    "test": "xo && ava -v"
+  },
+  "xo": {
+    "space": true,
+    "semicolon": false
+  }
+}

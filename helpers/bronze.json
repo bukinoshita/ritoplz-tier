@@ -1,0 +1,10 @@
+{
+  "flag": {
+    "original": "https://ritoplz-tier.now.sh/bronze.png",
+    "small": "https://ritoplz-tier.now.sh/bronze_small.png",
+    "large": "https://ritoplz-tier.now.sh/bronze_large.png"
+  },
+  "tier": {
+    "name": "bronze"
+  }
+}
