@@ -1,6 +1,6 @@
 {
   "name": "ritoplz-tier",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Get League of Legends tier information",
   "main": "index.js",
   "repository": {
