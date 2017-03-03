@@ -11,6 +11,7 @@
   "license": "MIT",
   "dependencies": {
     "ava": "^0.17.0",
+    "ritoplz-tier": "0.0.3",
     "xo": "^0.17.1"
   },
   "scripts": {
