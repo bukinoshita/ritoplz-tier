@@ -2,6 +2,7 @@
 > Get League of Legends tier information
 
 [![Codeship Status for bukinoshita/ritoplz-tier](https://app.codeship.com/projects/7525de90-a697-0134-62b2-423aeef756c2/status?branch=master)](https://app.codeship.com/projects/191081)
+[![Build Status](https://travis-ci.org/bukinoshita/ritoplz-tier.svg?branch=master)](https://travis-ci.org/bukinoshita/ritoplz-tier)
 [![GitHub release](https://img.shields.io/github/release/bukinoshita/ritoplz-tier.svg)](https://www.npmjs.com/package/ritoplz-tier)
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/bukinoshita/ritoplz-tier/master/LICENSE)
 
