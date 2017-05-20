@@ -9,11 +9,6 @@
   },
   "author": "Bu Kinoshita <bukinoshita@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "ava": "^0.17.0",
-    "ritoplz-tier": "0.0.3",
-    "xo": "^0.17.1"
-  },
   "scripts": {
     "test": "xo && ava -v"
   },
@@ -26,5 +21,9 @@
   "xo": {
     "space": true,
     "semicolon": false
+  },
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "xo": "^0.18.2"
   }
 }
